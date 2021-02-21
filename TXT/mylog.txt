@@ -4,3 +4,4 @@
 ZSZC W00 5 L05 How to make github pages
 ZCZC W00 5 L03 Setup github pages
 ZCZC W00 15 L22 watch "10 Classic Operating Systems You Can Run in Your Web Browser"
+ZCZC W00 120 L21 Install Debian Netinst Guest on VirtualBox
