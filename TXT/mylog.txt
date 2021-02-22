@@ -5,3 +5,5 @@ ZSZC W00 5 L05 How to make github pages
 ZCZC W00 5 L03 Setup github pages
 ZCZC W00 15 L22 watch "10 Classic Operating Systems You Can Run in Your Web Browser"
 ZCZC W00 120 L21 Install Debian Netinst Guest on VirtualBox
+ZCZC W00 30 L21 Trying SSH and Putty
+ZCZC W00 60 L05 Debug error SSH, can't add known_hosts, install sudo
