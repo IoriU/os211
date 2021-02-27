@@ -10,3 +10,4 @@ ZCZC W00 60 L05 Debug error SSH, can't add known_hosts, install sudo
 ZCZC W00 30 L08 Trying connect to kawung but fail "Permission denied (publickey)"
 ZCZC W00 30 L09 Ask How to connect to kawung
 ZCZC W00 30 L08 Trying connect again but still failed
+ZCZC W00 5 L08 Success connect to kawung
