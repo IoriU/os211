@@ -6,6 +6,7 @@ ZCZC W00 5 L03 Setup github pages
 ZCZC W00 15 L22 watch "10 Classic Operating Systems You Can Run in Your Web Browser"
 ZCZC W00 120 L21 Install Debian Netinst Guest on VirtualBox
 ZCZC W00 30 L21 Trying SSH and Putty
+ZCZC W00 100 L02 Zoom meeting
 ZCZC W00 60 L05 Debug error SSH, can't add known_hosts, install sudo
 ZCZC W00 30 L08 Trying connect to kawung but fail "Permission denied (publickey)"
 ZCZC W00 30 L09 Ask How to connect to kawung
