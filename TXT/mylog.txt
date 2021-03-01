@@ -12,3 +12,5 @@ ZCZC W00 30 L08 Trying connect to kawung but fail "Permission denied (publickey)
 ZCZC W00 30 L09 Ask How to connect to kawung
 ZCZC W00 30 L08 Trying connect again but still failed
 ZCZC W00 5 L08 Success connect to kawung
+ZCZC W01 100 L02 Zoom meeting
+ZCZC W01 15 L11 Assignment #1
