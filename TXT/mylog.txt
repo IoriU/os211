@@ -14,3 +14,5 @@ ZCZC W00 30 L08 Trying connect again but still failed
 ZCZC W00 5 L08 Success connect to kawung
 ZCZC W01 100 L02 Zoom meeting
 ZCZC W01 15 L11 Assignment #1
+ZCZC W01 15 L05 GSGS related
+ZCZC W01 15 L99 Pop Quiz 
