@@ -1,3 +1,12 @@
-Operating Systems 2021-1 (Semester Genap
-2020/2021) \
-[My Log](TXT/mylog.txt)
+---
+layout: "layout"
+---
+
+Hallo!
+
+This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+
+Qapla, Jolan Tru!<br>[====](GitHubPages/)[======](REPORT/)
+
+
+
