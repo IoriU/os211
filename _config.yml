@@ -1,5 +1,5 @@
 title:       "Operating Systems 2021-1 (OS211)"
-version:     "0031---06-Mar-2021"
+version:     "005---10-Mar-2021"
 copyright:   "2021-2021"
 description: >- 
   This Is How Me Do It!
@@ -13,9 +13,6 @@ sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://cbkadal.github.io/os211/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/cbkadal/os211/"
-urlghpage:        "https://cbkadal.github.io/os211/"
 keywords:         "jekyll, testing"
 github:           [metadata]
