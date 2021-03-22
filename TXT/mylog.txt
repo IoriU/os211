@@ -34,3 +34,5 @@ ZCZC W02 40 L05 GSGS related (Search another interesting video)
 ZCZC W02 90 L10 Assignment (Create w02.md)
 ZCZC W03 60 L10 Trying demos
 ZCZC W03 30 L05 See week 2 top 10 from neighbors
+ZCZC W03 180 L05 GSGS related for top 10 interesting links
+ZCZC W03 43 L10 Assignment (Create w03.md)
