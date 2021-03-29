@@ -36,3 +36,8 @@ ZCZC W03 60 L10 Trying demos
 ZCZC W03 30 L05 See week 2 top 10 from neighbors
 ZCZC W03 180 L05 GSGS related for top 10 interesting links
 ZCZC W03 43 L10 Assignment (Create w03.md)
+ZCZC W04 100 L02 Zoom meeting
+ZCZC W04 30 L10 Assignment (try demo)
+ZCZC W04 30 L10 Assignment (create TLPI.txt)
+ZCZC W04 200 L10 Assignment (create w04.md)
+
