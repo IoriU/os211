@@ -43,3 +43,5 @@ ZCZC W04 200 L10 Assignment (create w04.md)
 ZCZC W05 100 L02 Zoom Meeting
 ZCZC W05 50 L10 Assignment (try demo)
 ZCZC W05 225 L10 Assignment (Create w04.md and update rank)
+ZCZC W05 100 L02 Zoom Meeting
+ZCZC W05 70 L10 Assignment (try demo)
