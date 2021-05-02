@@ -48,3 +48,4 @@ ZCZC W06 70 L10 Assignment (try demo)
 ZCZC W06 200 L10 Assignment (Create w06.md and update rank)
 ZCZC W07 100 L02 Zoom Meeting
 ZCZC W07 75 L10 Assignment (Try Demo)
+ZCZC W07 200 L10 Assignment (Create w07.md and update rank)
